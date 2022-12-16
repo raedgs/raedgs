@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **cybersecurity**
 
-- 💬 Ask me about **angular,spring,symfony,php,c++**
+- 💬 Ask me about **angular,spring,symfony,php,c++**,linux,scripting
 
 - 📫 How to reach me **raed.guesmi@esprit.tn**
 
