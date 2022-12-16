@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raed-guesmi-149570224/](https://www.linkedin.com/in/raed-guesmi-149570224/)
-
 - 💬 Ask me about **angular,spring,symfony,php,c++**
 
 - 📫 How to reach me **raed.guesmi@esprit.tn**
