@@ -13,7 +13,7 @@
 - 📫 How to reach me **raed.guesmi@esprit.tn**
 
 - ⚡ Fun fact **funny and love animals**
-<script src="https://tryhackme.com/badge/1397586"></script>
+<script src="https://tryhackme.com/badge/1397586"> a </script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
